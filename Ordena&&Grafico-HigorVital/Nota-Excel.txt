@@ -1,0 +1,11 @@
+Devido ao erro na recepção dos números, por parte do Excel, tive que transformar os elementos (segundos) em strings
+para enviá-los.
+Para corrigir o problema de geração de gráfico no Excel, ocasionado pela situação acima, faça os seguintes processos:
+
+    1-Selecionar os números (segundos), clicar no ícone de exclamação ao lado e transformar em número.
+
+    2-Na PÁGINA INICIAL do excel, selecionar a opção "Formato do número", no quadro de seleção "Categoria" clicar em "Número", usar separador de 1000 elementos e clicar no botão OK.
+
+    3-Clicar no primeiro bloco do Excel (A1) e apagar.
+
+    4-Inserir gráfico.

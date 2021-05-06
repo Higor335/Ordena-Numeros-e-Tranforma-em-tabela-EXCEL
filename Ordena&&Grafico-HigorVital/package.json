@@ -1,0 +1,20 @@
+{
+  "name": "Aula4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "perfy": "^1.1.5"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
